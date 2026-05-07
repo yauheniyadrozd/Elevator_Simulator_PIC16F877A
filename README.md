@@ -293,11 +293,7 @@ Test the simulator:
 
 ## Simulation Screenshot
 
-```markdown
 ![PICSimLab Simulation](images/1.jpg)
-```
-
----
 
 # Educational Purpose
 
